@@ -73,6 +73,6 @@ Red Dead Redemption 2 es un videojuego de acción-aventura de mundo abierto desa
 
 ## Archivos del proyecto
 
-- `entrada.txt` – Archivo original con el texto sin comprimir.
+- `texto.txt` – Archivo original con el texto sin comprimir.
 - `codificado.txt` – Archivo con el contenido comprimido en binario.
-- `huffman.cpp` – Código fuente principal que realiza todo el proceso.
+- `LAB7.cpp` – Código fuente principal que realiza todo el proceso.
